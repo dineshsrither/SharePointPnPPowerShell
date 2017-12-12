@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <Inputs>  
-<ConnectSPOnline SiteURL="https://mphasis-my.sharepoint.com/personal/dineshkumar_srither_mphasis_com/_layouts/15/onedrive.aspx" UserName="dineshkumar.srither@mphasis.com" Password="Happyyears@14"></ConnectSPOnline>  
+<ConnectSPOnline SiteURL="https://mphasis-my.sharepoint.com" UserName="*********" Password="*****"></ConnectSPOnline>  
  <UploadFiles>  
     <UploadFile SourceFolder=".\HTML" DestinationFolder="SiteAssets" CreateFolder="yes" FolderName="HTML"></UploadFile>  
     <UploadFile SourceFolder=".\CSS" DestinationFolder="SiteAssets" CreateFolder="yes" FolderName="CSS"></UploadFile>  
